@@ -49,6 +49,7 @@
 		CA333FAE2921121700CC1CCC /* imrichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imrichUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA333FB22921121700CC1CCC /* imrichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imrichUITests.swift; sourceTree = "<group>"; };
 		CA333FB42921121700CC1CCC /* imrichUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imrichUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CA333FC22921FE8A00CC1CCC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -301,6 +302,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				CA333F982921121200CC1CCC /* Base */,
+				CA333FC22921FE8A00CC1CCC /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
